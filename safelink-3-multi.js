@@ -25,7 +25,7 @@ if(x=="1"){xxx="benefits-of-green-tea-for-skin-care-to.html"}
 if(x=="2"){xxx="6-benefits-and-benefits-of-dragon.html"}
 if(x=="3"){xxx="5-benefits-and-benefits-of-lime-for.html"}
 if(x=="4"){xxx="tips-to-stay-healthy-fit-and-fresh.html"}
-if(x=="5"){xxx="tips-to-prevent-and-eliminate-bad-smell.html"}a_to_ve[i].href="https://ilhamlinks.blogspot.com/p/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="tips-to-prevent-and-eliminate-bad-smell.html"}a_to_ve[i].href="https://ilhamlinks.blogspot.com/2017/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
